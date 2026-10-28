@@ -125,7 +125,7 @@ and JavaScript and hosted with GitHub Pages.
 - C/C++
 - C#
 - JavaScript/TypeScript
-- R
+- R/Julia
 - Bash
 - Rust
 - Swift
