@@ -105,8 +105,9 @@ and JavaScript and hosted with GitHub Pages.
 
 ## 🔗 Connect With Me
 
-🌐 Portfolio: https://malloryhuston.github.io/  
-💻 GitHub: https://github.com/malloryhuston
+- 🌐 [Portfolio Website](https://malloryhuston.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mallory-huston/)
+- 💻 [GitHub](https://github.com/malloryhuston)
 
 ---
 
