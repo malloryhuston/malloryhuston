@@ -70,18 +70,50 @@ University, where I graduated Magna Cum Laude.
 
 ## 🚀 Projects
 
-### 🎮 Pac-Man — Python & Pygame
-A Pac-Man game featuring:
-- Ghost AI and movement
-- Collision detection
-- Power-ups and scoring
-- Game state management
+I'm working on projects involving artificial intelligence,
+software engineering, algorithms, game development,
+and systems programming.
+
+### 🎮 Game Development
+
+**AR Space Invaders**
+- Collaborative capstone project at Oregon State University
+- Built with Unity and C#
+- Augmented reality adaptation of the 1978 arcade game
+- Fall 2025 — CS 467
+
+**[Xiangqi Game](https://github.com/malloryhuston/Xiangqi-Game)**
+- Chinese chess game project
+
+**Pac-Man**
+- Python and Pygame arcade game
+- Ghost movement, power-ups, collision detection,
+  and scoring
+
+### 🤖 AI & Machine Learning
+
+**[Neural-Nine-RNN](https://github.com/malloryhuston/Neural-Nine-RNN)**
+
+**[AI Chef](https://github.com/malloryhuston/portfolio-project-AI_Chef)**
+
+### 🧮 Algorithms & Programming
+
+**[Insertion and Merge Sort](https://github.com/malloryhuston/insert-and-merge-sort)**
+
+**[Plethora of Python](https://github.com/malloryhuston/Plethora-of-Python)**
+
+### 🏗️ Software Engineering & Other Projects
+
+- [CS 361 Microservice](https://github.com/malloryhuston/CS361_Microservice)
+- [CS 340](https://github.com/malloryhuston/CS-340)
+- [FBoard](https://github.com/malloryhuston/FBoard)
+- [Paid Programming](https://github.com/malloryhuston/Paid-Programming)
 
 ### 🌐 Developer Portfolio
 My personal portfolio website, built using HTML, CSS,
 and JavaScript and hosted with GitHub Pages.
 
-**Website:** https://malloryhuston.github.io/
+[Visit My Portfolio](https://malloryhuston.github.io/)
 
 ## 🔧 Technologies & Tools
 
@@ -89,8 +121,17 @@ and JavaScript and hosted with GitHub Pages.
 - Microsoft 365
 - Microsoft Intune
 - HaloITSM
+- Python
+- C/C++
+- C#
+- JavaScript/TypeScript
+- R
+- Bash
+- Rust
+- Swift
 - Power BI
 - Oracle
+- Java
 - SQL/MySQL
 - Microsoft Excel
 
