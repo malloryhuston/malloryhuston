@@ -149,6 +149,8 @@ and JavaScript and hosted with GitHub Pages.
 - 🌐 [Portfolio Website](https://malloryhuston.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mallory-huston/)
 - 💻 [GitHub](https://github.com/malloryhuston)
+- 📸 [Instagram](https://instagram.com/justmalpal)
+- 🐦 [X](https://x.com/justmalpal)
 
 ---
 
